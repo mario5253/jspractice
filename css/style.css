@@ -1,0 +1,11 @@
+main {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+#figureBox {
+  width: 300px;
+}
+#figureBox img {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
